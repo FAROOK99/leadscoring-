@@ -37,8 +37,8 @@ Steps Followed
 
 Details of files given
 
-    Lead Score Case Study.ipynb : The python file showing coding and data analysis
+    Lead Scoring Case Study.ipynb : The python file showing coding and data analysis
     Assignment Subjective Questions.pdf : Some subjective questions answered
-    Presentation on Lead Score Case Study.pdf : Final Presentation
+    Presentation on Lead Scoring Case Study.pdf : Final Presentation
     Leads.csv : Data worked on
     Summary.pdf : Summary on what's done in the entire py file
